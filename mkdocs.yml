@@ -3,7 +3,7 @@ site_name: SJS Writing for the End User
 nav:
   - Content for SJS end users:
     - How to use this guide: howtouse.md
-    - Resources: resources.md
+    - Useful Resources: usefulresources.md
   - Approach:
     - Principles of Content: principlesofcontent.md
     - Address your user: addressuser.md

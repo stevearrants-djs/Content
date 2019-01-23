@@ -1,4 +1,4 @@
-Resources
+Useful Resources
 =========
 
 My background is in user assistance and documentation that uses plain
