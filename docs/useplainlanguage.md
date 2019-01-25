@@ -15,7 +15,7 @@ harder to understand. Here are some examples:
 
 * **drive** (you can only drive vehicles, not schemes or people)
 * **drive out** (unless it's cattle)
-* ***going forward** (unless you're giving directions)
+* **going forward** (unless you're giving directions)
 
 To avoid this, describe what you're actually doing. Be specific. Be
 open.
