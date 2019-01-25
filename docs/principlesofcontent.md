@@ -18,7 +18,6 @@ Do the hard work to make it simple
 * Be clear, not clever.
 * Write as if you're speaking to your mom or dad.
 * Write for the audience, not yourself
-------------------------------------
 
 Our end-users, customers, and all readers have complex experiences and
 backgrounds. Respect that.
