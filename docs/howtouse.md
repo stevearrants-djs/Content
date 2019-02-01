@@ -27,9 +27,6 @@ I structured this guide into descriptively named sections. Find the
 topic you're looking for in the table of contents or search by keyword.
 Use it the way that makes sense to you.
 
-If you have any suggestions or want to get involved, please click the
-link at the bottom of each page to send an email.
-
 If you work outside Technology
 ------------------------------
 
