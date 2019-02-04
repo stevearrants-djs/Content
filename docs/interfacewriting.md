@@ -48,8 +48,8 @@ Or:
 > To get started, click the **JIRA Service Desk** link to create a new
 > ticket. Remember to include the details of your problem.
 
-Focus on what the reader can [do]{.underline} rather than what they
-[can't]{.underline} using positive language.
+Focus on what the reader can do rather than what they
+can't using positive language.
 
 Instead of:
 
